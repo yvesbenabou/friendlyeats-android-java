@@ -17,3 +17,9 @@ https://github.com/firebase/quickstart-android
 ## Build Status
 
 [![Build Status](https://travis-ci.org/firebase/friendlyeats-android.svg?branch=master)](https://travis-ci.org/firebase/friendlyeats-android)
+
+
+run firebase emulator from root:
+firebase emulators:start
+
+see  https://firebase.google.com/docs/hosting/test-preview-deploy
